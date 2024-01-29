@@ -28,5 +28,5 @@ users to roll a virtual dice by tapping a button.
 
 ## APK Releases
 
-1. Dice Roller [link]()
+1. Dice Roller [link](https://github.com/jenniferksantos/Dice-Roller/releases/tag/ca3)
 2. YouTube Video [link](https://youtube.com/shorts/0bHkzqtIVhU)
